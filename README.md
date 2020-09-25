@@ -1,12 +1,10 @@
 ### Hi i'm Syed kamal here 👋
 
-- 🔭 I’m currently working on React.js
-- 🌱 I’m currently learning Gatsby.js GraphQL 
-- 💬 Ask me about JavaScript
+#### Frontend developer 
 
-👨🏼‍💻 building [react][react]
-🧠 learning  [gatsby][gatsby], [jamstack][jamstack] 
-💜 loving [Javascript],[JavaScript] 
+- 💜 loving [JavaScript][JavaScript] 
+- 👨🏼‍💻 I’m currently working on [react][react]
+- 🧠  I’m currently learning  [gatsby][gatsby], [jamstack][jamstack] 
 
 🏡 [website][website] **|** 
 📦 [Dev.to][Dev.to] **|** 
