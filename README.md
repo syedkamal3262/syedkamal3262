@@ -15,6 +15,6 @@
 [gatsby]: https://gatsbyjs.org
 [jamstack]: https://jamstack.org
 [website]: https://syedkamal3262.github.io/
-[linkedin]: https://linkedin.com/in/syedkamal3262
+[linkedin]: https://www.linkedin.com/in/syed-kamaluddin-011b24140/
 [Dev.to]: https://dev.to/syedkamal3262
 [JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
