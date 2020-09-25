@@ -1,4 +1,4 @@
-### Hi i am Syed kamal here 👋
+### Hi i'm Syed kamal here 👋
 
 - 🔭 I’m currently working on React.js
 - 🌱 I’m currently learning Gatsby.js GraphQL 
