@@ -6,7 +6,7 @@
 
 👨🏼‍💻 building [react][react]
 🧠 learning  [gatsby][gatsby], [jamstack][jamstack] 
-💜 loving [JavaScript],[JavaScript] 
+💜 loving [Javascript],[JavaScript] 
 
 🏡 [website][website] **|** 
 📦 [Dev.to][Dev.to] **|** 
