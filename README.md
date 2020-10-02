@@ -1,13 +1,13 @@
-### Hi i'm Syed kamal here 👋
+### Hi 👋
 
-#### Frontend developer 
+#### Frontend developer here :pencil2:
 
-- 💜 loving [JavaScript][JavaScript] 
-- 👨🏼‍💻 I’m currently working on [react][react]
-- 🧠  I’m currently learning  [gatsby][gatsby], [jamstack][jamstack] 
+- :bulb: loving [JavaScript][JavaScript] 
+- :hammer: I’m currently working on [react][react]
+- :turtle:  I’m currently learning  [gatsby][gatsby], [jamstack][jamstack] 
 
-🏡 [website][website] **|** 
-📦 [Dev.to][Dev.to] **|** 
+:page_facing_up: [website][website] **|** 
+:scroll: [Dev.to][Dev.to] **|** 
 👔 [linkedin][linkedin]
 
 
