@@ -4,7 +4,7 @@
 
 - :bulb: loving [JavaScript][JavaScript] 
 - :hammer: I’m currently working on [react][react]
-- :turtle:  I’m currently learning  [gatsby][gatsby], [jamstack][jamstack] 
+- :turtle:  I’m currently learning  [jamstack][jamstack] 
 
 :page_facing_up: [website][website] **|** 
 :scroll: [Dev.to][Dev.to] **|** 
