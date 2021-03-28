@@ -1,10 +1,9 @@
 ### Hi there 👋, my name is Syed Kamal
-#### I am a Frontend Developer
 
-Skills: REACT / JS / HTML / CSS
+Skills:  JS / HTML / CSS
 
-- 🔭 I’m currently working on React 
-- 🌱 I’m currently learning Gatsby.js Next.js 
+- 🔭 I’m currently working on Javascript
+- 🌱 I’m currently learning Python
 - 💬 Ask me about JavaScript 
 
 
